@@ -1,0 +1,7 @@
+{
+  "name": "CadastreAI - Urban Parcel Delineation & Land Records Platform",
+  "description": "AI-enabled automated cadastral mapping platform for urban parcel boundary extraction, building footprint delineation, road corridor detection, topology validation, and ground truthing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
