@@ -1,5 +1,7 @@
 # CadastreAI (Nagar-Seema AI) 🗺️⚡
 
+TRY HERE :- https://urbancad-ai.vercel.app/
+
 > **AI-Enabled Urban Cadastral Mapping, Automated Parcel Boundary Delineation & Land Records Modernization Platform**  
 > *Developed for Smart India Hackathon (Problem ID: SIH 26012)*
 
